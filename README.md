@@ -23,14 +23,14 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [cloud-mail](https://github.com/eoao/cloud-mail) | cloudflare email 邮箱  临时邮箱 邮件发送 mail | eoao | 1968 |
+| 1 |  [cloud-mail](https://github.com/eoao/cloud-mail) | cloudflare email 邮箱  临时邮箱 邮件发送 mail | eoao | 1969 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) |  | MoonTechLab | 3413 |
+| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) |  | MoonTechLab | 3422 |
 
 **[⬆ Back to Index](#-contents)**
 
