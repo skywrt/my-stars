@@ -23,7 +23,7 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [cloud-mail](https://github.com/eoao/cloud-mail) | cloudflare email 邮箱  临时邮箱 邮件发送 mail | eoao | 1982 |
+| 1 |  [cloud-mail](https://github.com/eoao/cloud-mail) | cloudflare email 邮箱  临时邮箱 邮件发送 mail | eoao | 1983 |
 
 **[⬆ Back to Index](#-contents)**
 
