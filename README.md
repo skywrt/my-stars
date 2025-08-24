@@ -16,21 +16,21 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 4692 |
+| 1 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 4694 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [cloud-mail](https://github.com/eoao/cloud-mail) | cloudflare email 邮箱  临时邮箱 邮件发送 mail | eoao | 1972 |
+| 1 |  [cloud-mail](https://github.com/eoao/cloud-mail) | cloudflare email 邮箱  临时邮箱 邮件发送 mail | eoao | 1973 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) |  | MoonTechLab | 3471 |
+| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) |  | MoonTechLab | 3478 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -44,7 +44,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin | imzyb | 826 |
+| 1 |  [MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin | imzyb | 828 |
 
 **[⬆ Back to Index](#-contents)**
 
