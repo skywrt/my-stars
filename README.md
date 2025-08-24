@@ -30,7 +30,7 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) |  | MoonTechLab | 3428 |
+| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) |  | MoonTechLab | 3434 |
 
 **[⬆ Back to Index](#-contents)**
 
