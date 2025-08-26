@@ -9,8 +9,7 @@
 
 - [Go (1)](#go)
 - [JavaScript (1)](#javascript)
-- [Others (1)](#others)
-- [TypeScript (1)](#typescript)
+- [TypeScript (2)](#typescript)
 - [Vue (1)](#vue)
 
 ## Go
@@ -27,17 +26,11 @@
 
 **[⬆ Back to Index](#-contents)**
 
-## Others
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) |  | MoonTechLab | 3742 |
-
-**[⬆ Back to Index](#-contents)**
-
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [moemail](https://github.com/beilunyang/moemail) | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | beilunyang | 1536 |
+| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) |  | MoonTechLab | 3757 |
+| 2 |  [moemail](https://github.com/beilunyang/moemail) | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | beilunyang | 1536 |
 
 **[⬆ Back to Index](#-contents)**
 
