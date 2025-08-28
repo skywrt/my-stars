@@ -21,7 +21,7 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [cloud-mail](https://github.com/eoao/cloud-mail) | cloudflare email 邮箱  临时邮箱 邮件发送 mail | eoao | 2045 |
+| 1 |  [cloud-mail](https://github.com/eoao/cloud-mail) | cloudflare email 邮箱  临时邮箱 邮件发送 mail | eoao | 2046 |
 | 2 |  [MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin | imzyb | 840 |
 
 **[⬆ Back to Index](#-contents)**
