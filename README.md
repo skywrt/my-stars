@@ -31,7 +31,7 @@
 ## PHP
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [m3u-editor](https://github.com/sparkison/m3u-editor) | Laravel based app for filtering and editing IPTV provider playlists | sparkison | 402 |
+| 1 |  [m3u-editor](https://github.com/sparkison/m3u-editor) | Laravel based app for filtering and editing IPTV provider playlists | sparkison | 403 |
 
 **[⬆ Back to Index](#-contents)**
 
