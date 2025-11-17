@@ -31,14 +31,14 @@
 ## PHP
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [m3u-editor](https://github.com/sparkison/m3u-editor) | Laravel based app for filtering and editing IPTV provider playlists | sparkison | 405 |
+| 1 |  [m3u-editor](https://github.com/sparkison/m3u-editor) | Laravel based app for filtering and editing IPTV provider playlists | sparkison | 407 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) | 【停止更新】本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 | MoonTechLab | 6623 |
+| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) | 【停止更新】本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 | MoonTechLab | 6625 |
 
 **[⬆ Back to Index](#-contents)**
 
