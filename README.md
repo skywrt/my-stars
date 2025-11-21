@@ -16,7 +16,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [dockerCopilot](https://github.com/onlyLTY/dockerCopilot) | 一键更新容器 | onlyLTY | 674 |
-| 2 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 5993 |
+| 2 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 5994 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -31,14 +31,14 @@
 ## PHP
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [m3u-editor](https://github.com/sparkison/m3u-editor) | Laravel based app for filtering and editing IPTV provider playlists | sparkison | 412 |
+| 1 |  [m3u-editor](https://github.com/sparkison/m3u-editor) | Laravel based app for filtering and editing IPTV provider playlists | sparkison | 413 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) | 【停止更新】本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 | MoonTechLab | 6690 |
+| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) | 【停止更新】本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 | MoonTechLab | 6691 |
 
 **[⬆ Back to Index](#-contents)**
 
