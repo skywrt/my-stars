@@ -32,7 +32,7 @@
 ## PHP
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [m3u-editor](https://github.com/sparkison/m3u-editor) | A full-featured IPTV editor, including features similar to xteve or threadfin. With full EPG management, Xtream API output, ability to store and sync .strm files, post processing with ability to call custom scripts, send webhook requests, or send an email, and much more! | sparkison | 422 |
+| 1 |  [m3u-editor](https://github.com/sparkison/m3u-editor) | A full-featured IPTV editor, including features similar to xteve or threadfin. With full EPG management, Xtream API output, ability to store and sync .strm files, post processing with ability to call custom scripts, send webhook requests, or send an email, and much more! | sparkison | 423 |
 
 **[⬆ Back to Index](#-contents)**
 
