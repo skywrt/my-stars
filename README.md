@@ -25,7 +25,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. | Gar-b-age | 22345 |
-| 2 |  [MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin | imzyb | 1295 |
+| 2 |  [MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin | imzyb | 1299 |
 
 **[⬆ Back to Index](#-contents)**
 
