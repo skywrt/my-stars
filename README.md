@@ -17,7 +17,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [dockerCopilot](https://github.com/onlyLTY/dockerCopilot) | 一键更新容器 | onlyLTY | 687 |
-| 2 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 6225 |
+| 2 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 6227 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -32,7 +32,7 @@
 ## PHP
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [m3u-editor](https://github.com/sparkison/m3u-editor) | A full-featured IPTV editor, including features similar to xteve or threadfin. With full EPG management, Xtream API output, ability to store and sync .strm files, post processing with ability to call custom scripts, send webhook requests, or send an email, and much more! | sparkison | 426 |
+| 1 |  [m3u-editor](https://github.com/sparkison/m3u-editor) | A full-featured IPTV editor, including features similar to xteve or threadfin. With full EPG management, Xtream API output, ability to store and sync .strm files, post processing with ability to call custom scripts, send webhook requests, or send an email, and much more! | sparkison | 427 |
 
 **[⬆ Back to Index](#-contents)**
 
