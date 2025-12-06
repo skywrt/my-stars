@@ -32,7 +32,7 @@
 ## PHP
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [m3u-editor](https://github.com/sparkison/m3u-editor) | A full-featured IPTV editor, including features similar to xteve or threadfin. With full EPG management, Xtream API output, ability to store and sync .strm files, post processing with ability to call custom scripts, send webhook requests, or send an email, and much more! | sparkison | 440 |
+| 1 |  [m3u-editor](https://github.com/sparkison/m3u-editor) | A full-featured IPTV editor, including features similar to xteve or threadfin. With full EPG management, Xtream API output, ability to store and sync .strm files, post processing with ability to call custom scripts, send webhook requests, or send an email, and much more! | sparkison | 441 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -46,7 +46,7 @@
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) | 【停止更新】本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 | MoonTechLab | 6889 |
+| 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) | 【停止更新】本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 | MoonTechLab | 6891 |
 
 **[⬆ Back to Index](#-contents)**
 
