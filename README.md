@@ -17,7 +17,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [dockerCopilot](https://github.com/onlyLTY/dockerCopilot) | 一键更新容器 | onlyLTY | 697 |
-| 2 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 6413 |
+| 2 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 6414 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -39,7 +39,7 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [fastpve](https://github.com/kspeeder/fastpve) | One click to run vm in PVE. | kspeeder | 121 |
+| 1 |  [fastpve](https://github.com/kspeeder/fastpve) | One click to run vm in PVE. | kspeeder | 123 |
 
 **[⬆ Back to Index](#-contents)**
 
