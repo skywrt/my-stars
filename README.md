@@ -17,7 +17,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [dockerCopilot](https://github.com/onlyLTY/dockerCopilot) | 一键更新容器 | onlyLTY | 730 |
-| 2 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 6946 |
+| 2 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 6947 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -45,7 +45,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin | imzyb | 1441 |
+| 1 |  [MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin | imzyb | 1442 |
 
 **[⬆ Back to Index](#-contents)**
 
