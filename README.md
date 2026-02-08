@@ -45,7 +45,7 @@
 ## Vue
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin123 | imzyb | 1543 |
+| 1 |  [MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin123 | imzyb | 1544 |
 
 **[⬆ Back to Index](#-contents)**
 
