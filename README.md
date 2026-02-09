@@ -8,16 +8,15 @@
 ## 🏠 Contents
 
 - [Go (2)](#go)
-- [JavaScript (1)](#javascript)
+- [JavaScript (2)](#javascript)
 - [Shell (1)](#shell)
 - [TypeScript (1)](#typescript)
-- [Vue (1)](#vue)
 
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [dockerCopilot](https://github.com/onlyLTY/dockerCopilot) | 一键更新容器 | onlyLTY | 765 |
-| 2 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 7335 |
+| 2 |  [s-ui](https://github.com/alireza0/s-ui) | An advanced Web Panel • Built for SagerNet/Sing-Box | alireza0 | 7337 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -25,6 +24,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. | Gar-b-age | 23033 |
+| 2 |  [MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin123 | imzyb | 1548 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -39,13 +39,6 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [LunaTV](https://github.com/MoonTechLab/LunaTV) | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 | MoonTechLab | 7788 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Vue
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin123 | imzyb | 1549 |
 
 **[⬆ Back to Index](#-contents)**
 
